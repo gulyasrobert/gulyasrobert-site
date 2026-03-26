@@ -1,5 +1,10 @@
 import createMiddleware from "next-intl/middleware";
-import { routing } from "./src/i18n/routing";
+import { defineRouting } from "next-intl/routing";
+
+const routing = defineRouting({
+  locales: ["hu", "en"],
+  defaultLocale: "hu",
+});
 
 export default createMiddleware(routing);
 
