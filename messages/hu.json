@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "about": "Rólam",
+    "impact": "Hatásom",
+    "career": "Karrierem",
+    "expertise": "Szakterület",
+    "speaking": "Előadásaim",
+    "newsletter": "Hírlevél",
+    "privacy": "Adatvédelem"
+  },
+  "hero": {
+    "greeting": "Üdvözöllek!",
+    "name": "Gulyás Róbert",
+    "title": "Stratégiai IT vezető | Digitális transzformáció | E-közigazgatás",
+    "description": "Több mint 30 éves tapasztalattal rendelkező IT vezető, aki milliárdos fejlesztési programokat, komplex transzformációkat és EU-finanszírozású kezdeményezéseket irányít a közigazgatásban.",
+    "cta": "Iratkozz fel a hírlevélre"
+  },
+  "about": {
+    "heading": "Rólam",
+    "bio": "A technikai alapoktól a nemzeti szintű IT vezetésig építettem karrieremet. A technológiát, a szabályozási környezetet és az emberközpontú vezetést összekapcsolva teremtek hosszú távú, fenntartható értéket a közigazgatásban. Hiszem, hogy a technológia akkor értékes igazán, ha az embereket szolgálja.",
+    "highlight1Label": "Tapasztalat",
+    "highlight1Value": "30+ év IT és közigazgatás",
+    "highlight2Label": "Fókusz",
+    "highlight2Value": "Nemzeti szintű digitális transzformáció",
+    "highlight3Label": "Legújabb végzettség",
+    "highlight3Value": "Executive MBA – Turnaround Mgmt (2025)"
+  },
+  "impact": {
+    "heading": "Számokban",
+    "stat1Value": "500+",
+    "stat1Label": "fős IT szervezet",
+    "stat2Value": "300+",
+    "stat2Label": "rendszer felügyelete",
+    "stat3Value": "16M+",
+    "stat3Label": "ügyfélinterakció évente",
+    "stat4Value": "12,5 Mrd",
+    "stat4Label": "Ft értékű IT program"
+  },
+  "career": {
+    "heading": "Karrierem",
+    "present": "jelenleg",
+    "impactLabel": "Stratégiai hatás"
+  },
+  "expertise": {
+    "heading": "Szakterületek",
+    "educationTitle": "Tanulmányok",
+    "certTitle": "Certifikációk",
+    "ongoing": "folyamatban"
+  },
+  "speaking": {
+    "heading": "Előadásaim"
+  },
+  "newsletter": {
+    "heading": "Hírlevél",
+    "description": "Iratkozz fel, és kapj értesítést az új tartalmakról, gondolatokról az IT vezetésről és a digitális transzformációról.",
+    "emailPlaceholder": "Email címed",
+    "namePlaceholder": "Neved (opcionális)",
+    "consent": "Elfogadom az",
+    "consentLink": "adatkezelési tájékoztató",
+    "consentEnd": "feltételeit.",
+    "submit": "Feliratkozás",
+    "submitting": "Küldés...",
+    "successTitle": "Sikeres feliratkozás!",
+    "successMessage": "Köszönjük az érdeklődésedet.",
+    "errorMessage": "Hiba történt. Kérlek próbáld újra később."
+  },
+  "footer": {
+    "rights": "Minden jog fenntartva.",
+    "privacy": "Adatvédelmi tájékoztató"
+  },
+  "privacy": {
+    "heading": "Adatvédelmi tájékoztató",
+    "intro": "Jelen tájékoztató ismerteti, hogy Gulyás Róbert (a továbbiakban: Adatkezelő) hogyan kezeli az Ön személyes adatait a hírlevél-feliratkozás kapcsán.",
+    "controllerTitle": "Adatkezelő",
+    "controllerText": "Gulyás Róbert",
+    "dataTitle": "Kezelt adatok",
+    "dataText": "E-mail cím, név (opcionális), feliratkozás időpontja, hozzájárulás időpontja.",
+    "purposeTitle": "Adatkezelés célja",
+    "purposeText": "Hírlevél küldése az IT vezetésről, digitális transzformációról és kapcsolódó témákról.",
+    "legalTitle": "Jogalap",
+    "legalText": "Az Ön önkéntes hozzájárulása (GDPR 6. cikk (1) bekezdés a) pont).",
+    "retentionTitle": "Adatmegőrzés",
+    "retentionText": "Az adatokat a hozzájárulás visszavonásáig (leiratkozásig) őrizzük meg.",
+    "rightsTitle": "Az Ön jogai",
+    "rightsText": "Ön jogosult a hozzájárulás visszavonására, az adataihoz való hozzáférésre, azok helyesbítésére, törlésére és hordozhatóságára. Kérését az alábbi e-mail címen nyújthatja be.",
+    "sharingTitle": "Adattovábbítás",
+    "sharingText": "Személyes adatait harmadik félnek nem adjuk át.",
+    "contactTitle": "Kapcsolat",
+    "contactText": "Adatvédelmi kérdéseivel forduljon hozzám:"
+  }
+}

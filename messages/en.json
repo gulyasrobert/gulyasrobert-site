@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "about": "About",
+    "impact": "Impact",
+    "career": "Career",
+    "expertise": "Expertise",
+    "speaking": "Speaking",
+    "newsletter": "Newsletter",
+    "privacy": "Privacy Policy"
+  },
+  "hero": {
+    "greeting": "Welcome!",
+    "name": "Róbert Gulyás",
+    "title": "Strategic IT Leader | Digital Transformation | E-Government",
+    "description": "Strategic IT leader with 30+ years of experience, overseeing multi-billion-forint development programs, complex transformations and EU-funded initiatives in public administration.",
+    "cta": "Subscribe to my newsletter"
+  },
+  "about": {
+    "heading": "About Me",
+    "bio": "Built a career from deep technical foundations to national-level IT leadership. I bridge technology, governance and human-centric leadership to create long-term, sustainable value in highly regulated environments. I believe technology is truly valuable when it serves people.",
+    "highlight1Label": "Experience",
+    "highlight1Value": "30+ years in IT & public admin",
+    "highlight2Label": "Focus",
+    "highlight2Value": "National-level digital transformation",
+    "highlight3Label": "Latest degree",
+    "highlight3Value": "Executive MBA – Turnaround Mgmt (2025)"
+  },
+  "impact": {
+    "heading": "By the Numbers",
+    "stat1Value": "500+",
+    "stat1Label": "member IT organization",
+    "stat2Value": "300+",
+    "stat2Label": "systems managed",
+    "stat3Value": "16M+",
+    "stat3Label": "customer interactions yearly",
+    "stat4Value": "12.5B",
+    "stat4Label": "HUF IT program value"
+  },
+  "career": {
+    "heading": "Career",
+    "present": "present",
+    "impactLabel": "Strategic impact"
+  },
+  "expertise": {
+    "heading": "Expertise",
+    "educationTitle": "Education",
+    "certTitle": "Certifications",
+    "ongoing": "ongoing"
+  },
+  "speaking": {
+    "heading": "Speaking"
+  },
+  "newsletter": {
+    "heading": "Newsletter",
+    "description": "Subscribe to get notified about new content, thoughts on IT leadership and digital transformation.",
+    "emailPlaceholder": "Your email",
+    "namePlaceholder": "Your name (optional)",
+    "consent": "I accept the",
+    "consentLink": "privacy policy",
+    "consentEnd": "terms.",
+    "submit": "Subscribe",
+    "submitting": "Sending...",
+    "successTitle": "Successfully subscribed!",
+    "successMessage": "Thank you for your interest.",
+    "errorMessage": "An error occurred. Please try again later."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "privacy": {
+    "heading": "Privacy Policy",
+    "intro": "This policy describes how Róbert Gulyás (hereinafter: Data Controller) handles your personal data in connection with the newsletter subscription.",
+    "controllerTitle": "Data Controller",
+    "controllerText": "Róbert Gulyás",
+    "dataTitle": "Data Collected",
+    "dataText": "Email address, name (optional), subscription date, consent timestamp.",
+    "purposeTitle": "Purpose",
+    "purposeText": "Sending newsletters about IT leadership, digital transformation, and related topics.",
+    "legalTitle": "Legal Basis",
+    "legalText": "Your voluntary consent (GDPR Article 6(1)(a)).",
+    "retentionTitle": "Data Retention",
+    "retentionText": "Data is retained until consent is withdrawn (unsubscription).",
+    "rightsTitle": "Your Rights",
+    "rightsText": "You have the right to withdraw consent, access, rectify, delete, and port your data. Please submit your request to the email below.",
+    "sharingTitle": "Data Sharing",
+    "sharingText": "We do not share your personal data with third parties.",
+    "contactTitle": "Contact",
+    "contactText": "For privacy-related questions, contact me at:"
+  }
+}
