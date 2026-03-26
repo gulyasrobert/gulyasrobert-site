@@ -19,7 +19,7 @@ export default function RevealSection({
 
   return (
     <Tag
-      ref={ref as React.RefObject<HTMLElement>}
+      ref={ref as React.RefObject<HTMLDivElement>}
       id={id}
       className={className}
     >

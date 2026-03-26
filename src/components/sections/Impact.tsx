@@ -16,7 +16,7 @@ export default function Impact() {
 
   return (
     <section
-      ref={ref as React.RefObject<HTMLElement>}
+      ref={ref as React.RefObject<HTMLDivElement>}
       id="impact"
       className="relative overflow-hidden border-y border-accent/10 bg-dark-warm py-20"
     >
